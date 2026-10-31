@@ -1,0 +1,103 @@
+{
+ "_note": "SYNTHETIC. A fictional five-person automation studio. Not real data.",
+ "cards": [
+  {
+   "tag": "pricing/fixed-scope",
+   "claim": "We moved 12 client projects from hourly billing to fixed-scope pricing, and invoice disputes dropped to zero that quarter.",
+   "note": "Small sample; one quarter.",
+   "cap_uses": "3",
+   "status": "verified"
+  },
+  {
+   "tag": "pricing/three-tiers",
+   "claim": "When our proposals showed three tiers instead of one price, most clients picked the middle option instead of haggling.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "support/first-reply",
+   "claim": "Cutting first reply time on a client's support inbox from 9 hours to 40 minutes did more for their reviews than any feature we shipped.",
+   "note": "One client; reviews are a lagging signal.",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "ops/onboarding-churn",
+   "claim": "Most of our early churn came from clients who never finished onboarding in their first 14 days.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "ai/eval-set",
+   "claim": "On one client build, a 60-example eval set caught more regressions than moving to a bigger model fixed.",
+   "note": "Do not generalise to every model or task.",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "ai/one-inbox",
+   "claim": "Our automation projects that failed all started with automate everything; the ones that worked started with one inbox.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "ai/staff-switch-off",
+   "claim": "The automations that lasted were the ones the client's own staff could switch off without calling us.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "hiring/paid-trial",
+   "claim": "We hire with a paid one-week trial project, and two of our best hires had weak CVs.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "teams/written-standups",
+   "claim": "Moving our daily standups to written updates saved the team about 4 hours a week.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "customers/ten-calls",
+   "claim": "Ten customer calls in one week changed our roadmap more than three months of analytics did.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "career/part-time-contract",
+   "claim": "I kept a part-time contract for the first 8 months of the studio, which let us say no to bad-fit clients.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "habits/no-late-work",
+   "claim": "When I stopped working after 10pm for a month, I shipped more, not less.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "sports/captain",
+   "claim": "Captaining a weekend football team taught me more about delegation than any management course.",
+   "note": "",
+   "cap_uses": "",
+   "status": "verified"
+  },
+  {
+   "tag": "draft/unverified-claim",
+   "claim": "We tripled revenue in a month with one cold email.",
+   "note": "Never verified; do not use.",
+   "cap_uses": "",
+   "status": "unverified"
+  }
+ ]
+}

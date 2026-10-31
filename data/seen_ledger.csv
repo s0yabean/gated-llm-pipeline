@@ -1,0 +1,4 @@
+id,url,handle,source_text,reply,card
+1035,https://example.com/posts/1035,sample_already_answered,"Our onboarding emails are ignored and churn is climbing, so we are rebuilding the whole first week for new clients.","Most of our early churn came from clients who never finished onboarding in their first 14 days, so the first week is the right place to start.",ops/onboarding-churn
+9001,https://example.com/posts/9001,sample_past_author_a,"Is fixed pricing worth it for agencies?","Seen this from the other side. We moved 12 client projects from hourly billing to fixed-scope pricing, and invoice disputes dropped to zero that quarter.",pricing/fixed-scope
+9002,https://example.com/posts/9002,sample_past_author_b,"How do you hire without CVs?","Two of our best hires had weak CVs. The paid one-week trial told us more than any interview.",hiring/paid-trial
