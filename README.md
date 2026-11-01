@@ -1,5 +1,7 @@
 # gated-llm-pipeline
 
+[![CI](https://github.com/s0yabean/gated-llm-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/s0yabean/gated-llm-pipeline/actions/workflows/ci.yml)
+
 An 8-step triage pipeline for a stream of inbound social posts. Code owns the control flow, a cheap
 classifier makes the narrow judgment at every gate, and a reasoning model only sees the items the
 classifier is unsure about. Every classifier answer is cached, and there are backtest and QA-eval
