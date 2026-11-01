@@ -90,7 +90,7 @@ class JevClassifier(Classifier):
             except urllib.error.HTTPError as e:
                 last = f"{e.code} {e.read().decode()[:300]}"
                 if e.code not in (429, 500, 502, 503, 504):
-                    raise RuntimeError(last)
+                    raise RuntimeError(last) from e
             except Exception as e:  # network or timeout
                 last = str(e)
             time.sleep(min(30, 2 ** attempt))
